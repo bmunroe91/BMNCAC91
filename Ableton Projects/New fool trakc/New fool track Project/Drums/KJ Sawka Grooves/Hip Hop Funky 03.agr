@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Ableton MajorVersion="4" MinorVersion="8.1_223">
+	<Groove>
+		<Name Value="Hip Hop Funky 03" />
+		<Clip>
+			<Value>
+				<MidiClip Time="0">
+					<CurrentStart Value="0" />
+					<CurrentEnd Value="8" />
+					<Loop>
+						<LoopStart Value="0" />
+						<LoopEnd Value="8" />
+						<StartRelative Value="0" />
+						<LoopOn Value="true" />
+						<OutMarker Value="4" />
+						<HiddenLoopStart Value="0" />
+						<HiddenLoopEnd Value="4" />
+					</Loop>
+					<Name Value="Hip Hop Funky 03" />
+					<Annotation Value="" />
+					<ColorIndex Value="57" />
+					<LaunchMode Value="0" />
+					<LaunchQuantisation Value="0" />
+					<TimeSignature>
+						<TimeSignatures>
+							<RemoteableTimeSignature>
+								<Numerator Value="4" />
+								<Denominator Value="4" />
+								<Time Value="0" />
+							</RemoteableTimeSignature>
+						</TimeSignatures>
+					</TimeSignature>
+					<ModulationList>
+						<Modulations />
+					</ModulationList>
+					<ScrollerTimePreserver>
+						<LeftTime Value="0" />
+						<RightTime Value="9.008166856453899" />
+					</ScrollerTimePreserver>
+					<TimeSelection>
+						<AnchorTime Value="8.813453473609723" />
+						<OtherTime Value="0.0129729645354645356" />
+					</TimeSelection>
+					<Legato Value="false" />
+					<Ram Value="false" />
+					<GrooveSettings>
+						<GrooveId Value="-1" />
+					</GrooveSettings>
+					<Disabled Value="false" />
+					<VelocityAmount Value="0" />
+					<FollowTime Value="4" />
+					<FollowActionA Value="0" />
+					<FollowActionB Value="0" />
+					<FollowChanceA Value="1" />
+					<FollowChanceB Value="0" />
+					<Grid>
+						<FixedNumerator Value="1" />
+						<FixedDenominator Value="16" />
+						<GridIntervalPixel Value="20" />
+						<Ntoles Value="2" />
+						<SnapToGrid Value="true" />
+						<Fixed Value="true" />
+					</Grid>
+					<FreezeStart Value="0" />
+					<FreezeEnd Value="0" />
+					<Notes>
+						<KeyTracks>
+							<KeyTrack>
+								<Notes>
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="0.0129729645354645356" Velocity="42.9699745" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="0.245973817848817861" Velocity="54.2708054" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="0.5" Velocity="126.999985" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="0.738754474691974639" Velocity="40.3097992" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="0.996684305278055294" Velocity="104.465797" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="1.25" Velocity="110.550041" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="1.5" Velocity="106.712479" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="1.7600532280219781" Velocity="30.5352306" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="1.9910740301365302" Velocity="72.8552628" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="2.2590537067099565" Velocity="120.113266" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="2.731876717032967" Velocity="25.1806335" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="3.0069477397602395" Velocity="38.6588402" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="3.2488019792707292" Velocity="103.097389" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="3.4996612762237764" Velocity="112.251099" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="4.0043818161005662" Velocity="43.7760658" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="4.2521736076423577" Velocity="48.4524841" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="4.5" Velocity="126.999985" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="4.7558912441724939" Velocity="42.9455376" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="4.9991495483682984" Velocity="102.522812" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="5.25" Velocity="126.999985" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="5.5073920870795874" Velocity="120.666389" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="5.7545844780219779" Velocity="43.4092484" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="6" Velocity="63.7843819" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="6.25" Velocity="112.974968" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="6.7604564706127208" Velocity="20.6732788" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="7.25" Velocity="103.714996" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="7.5" Velocity="127" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="7.7554268648018647" Velocity="41.5404625" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="8.0032948822011321" Velocity="36.7771721" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="8.25" Velocity="64.8301926" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="8.4999687812187812" Velocity="121.695587" />
+									<MidiNoteEvent Duration="0.0625" IsEnabled="true" OffVelocity="64" Time="8.750953473609723" Velocity="41.2431984" />
+								</Notes>
+								<MidiKey Value="36" />
+							</KeyTrack>
+						</KeyTracks>
+					</Notes>
+					<BankSelectCoarse Value="-1" />
+					<BankSelectFine Value="-1" />
+					<ProgramChange Value="-1" />
+					<NoteEditorFoldInZoom Value="-1" />
+					<NoteEditorFoldInScroll Value="-1" />
+					<NoteEditorFoldOutZoom Value="3072" />
+					<NoteEditorFoldOutScroll Value="-2184" />
+				</MidiClip>
+			</Value>
+		</Clip>
+		<Grid Value="3" />
+		<QuantizationAmount Value="0" />
+		<TimingAmount Value="100" />
+		<RandomAmount Value="0" />
+		<VelocityAmount Value="0" />
+		<Annotation Value="" />
+		<Selection Value="true" />
+		<SourceContext />
+	</Groove>
+</Ableton>
